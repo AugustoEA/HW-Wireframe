@@ -9,6 +9,7 @@
     background-color: #777;
     width: 960px;
     margin: auto;
+    margin-top: 10px;
   }
 
   header, nav, section, aside, footer {
